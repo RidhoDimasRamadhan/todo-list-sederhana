@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.todo{
+    text-align: center;
+}
+h1{
+    color: white;
+    font-weight: bolder;
+    margin-top: 3rem;
+}
+input{
+    height: 2rem;
+    width: 10rem;
+}
+button{
+    margin-left: 3rem;
+    color: black;
+    height: 2rem;
+    width: 7rem;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+
+
